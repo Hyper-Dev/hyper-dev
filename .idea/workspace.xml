@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd0ce80-1506-4b3f-91d6-5ca32eac3930" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/new-skin/new-skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/new-skin/new-skin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/man5_big.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +26,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/webfonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\webfonts" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\css" />
-      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
@@ -60,7 +51,7 @@
       <updated>1581977149460</updated>
       <workItem from="1581977152307" duration="3432000" />
       <workItem from="1582146529183" duration="599000" />
-      <workItem from="1582226795476" duration="6688000" />
+      <workItem from="1582226795476" duration="7766000" />
     </task>
     <servers />
   </component>
