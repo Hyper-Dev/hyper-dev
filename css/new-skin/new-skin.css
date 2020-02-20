@@ -1373,3 +1373,28 @@ input[type="file"] {
 .grid-items {
 	min-height: 1px;
 }
+.my-10{
+	margin: 10px auto;
+}
+.px-30{
+	padding: 0 30px;
+}
+.hr-awesome{
+	width: 100%;
+	height: 1px;
+	background: radial-gradient(ellipse at center, #dddddd 0%, rgba(255, 255, 255, 0) 70%);
+	margin: 11px auto;
+}
+.avatar-img{
+	box-shadow: 0 0 5px 5px #cc595959;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.team-name{
+	font-size: 22px;
+}
+@media screen and (max-width: 576px){
+	.team-name{
+		font-size: 18px;
+	}
+}
