@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd0ce80-1506-4b3f-91d6-5ca32eac3930" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/new-skin/new-skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/new-skin/new-skin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/client_4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +40,18 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/team" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/educate_me" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images\educate_me" />
+      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\fonts" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images\team" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\webfonts" />
-      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
-      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -62,7 +68,8 @@
       <workItem from="1582146529183" duration="599000" />
       <workItem from="1582226795476" duration="14089000" />
       <workItem from="1582287724164" duration="26000" />
-      <workItem from="1582390585428" duration="3054000" />
+      <workItem from="1582390585428" duration="10213000" />
+      <workItem from="1582402864708" duration="325000" />
     </task>
     <servers />
   </component>

@@ -677,10 +677,10 @@ input[type="file"] {
 .card-started .profile .slide:after {
 	left: auto;
 	right: -25%;
-	transform: rotate(-8deg);
-	-webkit-transform: rotate(-8deg);
-	-moz-transform: rotate(-8deg);
-	-o-transform: rotate(-8deg);
+	transform: rotate(-10deg);
+	-webkit-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);
+	-o-transform: rotate(-10deg);
 }
 
 .card-started .profile .image {
@@ -1394,4 +1394,18 @@ input[type="file"] {
 	.px-30{
 		padding: 0;
 	}
+}
+.social-container{
+
+}
+.social-container a i{
+	font-size: 20px;
+	padding: 5px;
+	color: black;
+	transition: all 0.4s ease;
+}
+.social-container a i:hover{
+	color: #e8676b;
+	transition: all 0.4s ease;
+
 }
