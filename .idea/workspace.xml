@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd0ce80-1506-4b3f-91d6-5ca32eac3930" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/new-skin/new-skin.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/new-skin/new-skin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/client_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/client_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/client_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/client_4.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +33,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/educate_me" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images\educate_me" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\fonts" />
@@ -53,6 +44,19 @@
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\images" />
       <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website\webfonts" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ma7MOoOD\WebstormProjects\HyperDev Website" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/hyper-dev.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -70,6 +74,7 @@
       <workItem from="1582287724164" duration="26000" />
       <workItem from="1582390585428" duration="10213000" />
       <workItem from="1582402864708" duration="325000" />
+      <workItem from="1583229857716" duration="3462000" />
     </task>
     <servers />
   </component>
@@ -81,6 +86,78 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582228429083" />
+    <state x="173" y="43" key="#index.html" timestamp="1583230215677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="173" y="43" key="#index.html/0.0.1536.824@0.0.1536.824" timestamp="1583230215677" />
+    <state width="942" height="239" key="GridCell.Tab.0.bottom" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.0.center" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.0.left" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.0.right" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.1.bottom" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.1.center" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.1.left" timestamp="1583230961931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583230961931" />
+    <state width="942" height="239" key="GridCell.Tab.1.right" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.2.bottom" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.2.center" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.2.left" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.2.right" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.3.bottom" timestamp="1583230961933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583230961933" />
+    <state width="942" height="239" key="GridCell.Tab.3.center" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.3.left" timestamp="1583230961932">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1583230961932" />
+    <state width="942" height="239" key="GridCell.Tab.3.right" timestamp="1583230961933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="942" height="239" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1583230961933" />
+    <state x="0" y="58" key="SettingsEditor" timestamp="1583230290548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583230290548" />
     <state x="369" y="80" width="627" height="568" key="find.popup" timestamp="1582240135309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
